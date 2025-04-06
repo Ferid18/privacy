@@ -1,10 +1,10 @@
 # Məxfilik Siyasəti - Neon Music Bot
 
-Sonuncu Yeniləmə: 2024-10-30
+Sonuncu Yeniləmə: 2025-04-05
 
 ## 1. Giriş
 
-Neon Music ("biz," "bizim," və ya "bot") botu istifadəçilərin məlumatlarını qorumağa böyük əhəmiyyət verir. Bu məxfilik siyasəti, Telegram bot xidmətlərimizi istifadə edərkən topladığımız məlumatların necə toplandığını, istifadə edildiyini, saxlanıldığını və qorunduğunu izah edir.
+Neon Music ("biz," "bizim," və ya "bot") istifadəçilərin məlumatlarının qorunmasına böyük əhəmiyyət verir. Bu məxfilik siyasəti, Telegram bot xidmətlərimizi istifadə edərkən topladığımız məlumatların necə toplanacağını, istifadə ediləcəyini, saxlanılacağını və qorunacağını izah edir.
 
 ## 2. Topladığımız Məlumatlar
 
